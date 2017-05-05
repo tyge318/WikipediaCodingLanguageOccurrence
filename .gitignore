@@ -1,0 +1,14 @@
+.DS_Store
+wikipedia.dat
+
+.cache-main
+
+.cache-tests
+
+.classpath
+
+.project
+.settings/
+project/
+target/
+bin/
